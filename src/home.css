@@ -1,0 +1,184 @@
+*{
+    margin:0;
+    bottom: 0;
+   } 
+.logo{
+    width:211px;
+    height: 33px;
+    top: 20px;
+    left: 90px;
+    position: absolute;
+}
+.header-1{
+    position: sticky;
+    top: -250px;
+}
+.color{
+    position: absolute;
+    top: 80px;
+    /* left: 140px; */
+
+    width: 100%;
+    height:430px;
+    background-color: rgb(26, 92, 163);
+
+}
+
+
+.color2{
+    position: absolute;
+    /* left: 375px; */
+    height: 420px;
+    width: 70%;
+}
+
+
+.domi{
+    position: absolute;
+    height:60px;
+    top: 30px;
+    left: 399px;
+    font-size: 15px;
+    font-weight:500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(105, 151, 181);
+
+}
+
+
+
+.domi1{
+    position: absolute;
+    top: 30px;
+    left: 510PX;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(105, 151, 181);
+
+}
+
+.domi2{
+    position: absolute;
+    top: 30px;
+    left: 668PX;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(105, 151, 181);
+
+}
+
+.domi3{
+    position: absolute;
+    top: 30px;
+    left: 768PX;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(105, 151, 181);
+
+}
+
+.domi4{
+    position: absolute;
+    top: 30px;
+    left:950px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(105, 151, 181);
+
+}
+.bannerbrand{
+    position: absolute;
+    top: 375px;
+    left: 120px;
+    height: 120px;
+    width: 30%;
+}
+.domi5{
+    top: 310px;
+    left: 260px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.domi6{
+    background-color: rgb(31, 179, 26);
+    height: 70px;
+    width: 403px;
+    position: absolute;
+    top: 210px;
+    left: 167px;
+    border-radius: 3px;
+}
+.domi7{
+    top: 126px;
+    left: 170px;
+    position: absolute;
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.domi8{
+    top: 168px;
+    left: 170px;
+    position: absolute;
+    color: rgb(71, 160, 255);
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.domi9{
+    position: absolute;
+    background-color: rgb(238, 238, 238);
+    width: 100%;
+    height: 30px;
+    top: 520px;
+}
+.domi10{
+    position: absolute;
+    color:rgb(71, 160, 255) ;
+    top: 525px;
+    left: 20px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.domi11{
+    color: white;
+    position: absolute;
+    top: 24px;
+    left: 1080px;
+    font-size: 18px;
+    font-weight:400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.domi12{
+    background-color: rgb(243, 34, 59);
+    height: 40px;
+    width: 160px;
+    position: absolute;
+    top: 20px;
+    left: 1059px;
+    border-radius: 3px;
+}
+.domi13{
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    right: 16px;
+    bottom: 20px;
+}
+.domi14{
+   
+    height: 17px;
+    position: absolute;
+    color: #708AA5;
+
+}
