@@ -39,7 +39,7 @@ function Home() {
             <h13 className='domi10'>Home</h13>
             <img src='./public/iUs6cuumLN451574257378609.png' alt='' className='domi13'></img>
             <div>
-                <h14 className='domi14'>Coupons  </h14>
+                <h14 className='domi14'>Couponssssssssssssssssssssssssssssssssssssssssssssssssssss  </h14>
             </div>
         </>
     )
